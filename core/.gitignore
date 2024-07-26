@@ -1,0 +1,9 @@
+
+
+# django
+*.log
+*.pot
+*.pyc
+
+# pyenv
+
